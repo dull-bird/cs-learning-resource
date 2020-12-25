@@ -62,6 +62,7 @@
   - techniques for managing the complexity of large programs.
 
   是一门计算机入门的专业课程。[旧版的CS61a](https://www.bilibili.com/video/av40460492/)使用Scheme语言，教材为[《计算机程序的构造和解释》](https://book.douban.com/subject/1148282/)(Structure and Interpretation of Computer Programs, SICP)。该课程和教材都是经典中的经典。当然对于学习Python的同学来说，新版更容易上手。
+
 ### 1.3. R
 
 基础：
