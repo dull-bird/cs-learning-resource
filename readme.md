@@ -1,25 +1,29 @@
 # 学习资料
 
-- [计算机科学](#计算机科学)
-  - [综合](#综合)
-  - [Python](#python)
-  - [算法](#算法)
-  - [杂七杂八](#杂七杂八)
-- [机器学习](#机器学习)
+- [1. 计算机科学](#1-计算机科学)
+  - [1.1. 综合](#11-综合)
+  - [1.2. Python](#12-python)
+  - [1.3. R](#13-r)
+  - [1.4. 算法](#14-算法)
+  - [1.5. 杂七杂八](#15-杂七杂八)
+- [2. 机器学习](#2-机器学习)
 
 本人总结的部分学习资料（中英文），其实很多我并没有看过或者看完 😅，请依个人口味酌量食用。
 
-## 计算机科学
+## 1. 计算机科学
 
-### 综合
+### 1.1. 综合
 
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)  
   特点：**免费**（开源）的**书籍**。但其实很多优秀的书籍并不是免费的，可以前往一些网站搜索：
   - Library Genesis: ~~一个特殊的网站.~~ [站点 1](http://libgen.li/), [站点 2](http://libgen.gs/), [站点 3](http://libgen.lc/), [站点 4](http://genesis.lib/).
 
-以下主要对免费书籍进行一些补充或强调。
+- [自学计算机科学](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)  
+  [TeachYourselfCS](https://teachyourselfcs.com/)的中文翻译。用最快的时间学最好的课程，真正的计算机科学！
 
-### Python
+以下主要根据个人学习经历补充（或者强调上面包含的）一些资料。
+
+### 1.2. Python
 
 **基础：**
 
@@ -51,8 +55,24 @@
   英文版叫*Intermediate Python*，刚刚发现的一本书，简洁明了，不罗嗦！涉及到一些更高级的特性，比如装饰器。
 - [流畅的 Python（中文版）](http://libgen.li/item/index.php?md5=A5DA1D0215997469860AEB16A4A4B146)  
   高屋建瓴，妙不可言。
+- [Composing Python](https://composingprograms.com/)  
+  新版[伯克利CS61a](https://cs61a.org/)（课件比较精炼，建议先刷），主要内容：
+  - methods for abstraction
+  - programming paradigms
+  - techniques for managing the complexity of large programs.
 
-### 算法
+  是一门计算机入门的专业课程。[旧版的CS61a](https://www.bilibili.com/video/av40460492/)使用Scheme语言，教材为[《计算机程序的构造和解释》](https://book.douban.com/subject/1148282/)(Structure and Interpretation of Computer Programs, SICP)。该课程和教材都是经典中的经典。当然对于学习Python的同学来说，新版更容易上手。
+### 1.3. R
+
+基础：
+
+- [R Programing for Data Science](https://www.cs.upc.edu/~robert/teaching/estadistica/rprogramming.pdf)  
+  Coursera 上有简化版的课程[R Programming](https://www.coursera.org/learn/r-programming)，入门还不错。对于有编程基础的同学来说有点啰嗦，建议直接看[课件](http://ocw.jhsph.edu/index.cfm/go/viewCourse/course/rprog/coursePage/lectureNotes/)。
+
+- The Art of R Programming  
+  很流畅，推荐一读。
+
+### 1.4. 算法
 
 目前正在看算法，~~因为脑子转的慢，看的非常慢~~。
 
@@ -65,11 +85,13 @@
 - [斯坦福 CS161](https://web.stanford.edu/class/cs161/lectures.html)  
   刚刚找到的，还没看。
 
-### 杂七杂八
+### 1.5. 杂七杂八
 
 - 我写的一个[小抄集合](https://github.com/dull-bird/awesome-cheat-sheets)。
 - [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)  
   The Missing Semester of Your CS Education 中文版。
 
+## 2. 机器学习
 
-## 机器学习
+- 统计学习方法（第二版）  
+  [笔记](https://github.com/SmirkCao/Lihang)
