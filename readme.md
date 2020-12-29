@@ -52,7 +52,7 @@
 - [Practical Python](https://dabeaz-course.github.io/practical-python/)  
   知识点并没有比基础难很多，但是个人感觉更适合学完基础用这个来复习。
 - [Python 进阶（中文版）](https://github.com/eastlakeside/interpy-zh)  
-  英文版叫*Intermediate Python*，刚刚发现的一本书，简洁明了，不罗嗦！涉及到一些更高级的特性，比如装饰器。
+  英文版叫[_Intermediate Python_](https://book.pythontips.com/en/latest/index.html)，作者也称之为*Python Tips*。简洁明了，同时涉及到一些更高级的特性，比如装饰器。
 - [流畅的 Python（中文版）](http://libgen.li/item/index.php?md5=A5DA1D0215997469860AEB16A4A4B146)  
   高屋建瓴，妙不可言。
 - [Composing Python](https://composingprograms.com/)  
