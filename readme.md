@@ -1,18 +1,19 @@
 # 学习资料
 
 - [1. 计算机科学](#1-计算机科学)
-  - [1.1. 综合](#11-综合)
-  - [1.2. Python](#12-python)
-  - [1.3. R](#13-r)
-  - [1.4. 算法](#14-算法)
-  - [1.5. 杂七杂八](#15-杂七杂八)
+  - [1.1. 资源合辑](#11-资源合辑)
+  - [1.2. 计算机科学基础](#12-计算机科学基础)
+  - [1.3. Python](#13-python)
+  - [1.4. R](#14-r)
+  - [1.5. 算法](#15-算法)
+  - [1.6. 杂七杂八](#16-杂七杂八)
 - [2. 机器学习](#2-机器学习)
 
 本人总结的部分学习资料（中英文），其实很多我并没有看过或者看完 😅，请依个人口味酌量食用。
 
 ## 1. 计算机科学
 
-### 1.1. 综合
+### 1.1. 资源合辑
 
 - [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)  
   特点：**免费**（开源）的**书籍**。但其实很多优秀的书籍并不是免费的，可以前往一些网站搜索：
@@ -23,7 +24,12 @@
 
 以下主要根据个人学习经历补充（或者强调上面包含的）一些资料。
 
-### 1.2. Python
+### 1.2. 计算机科学基础
+
+- [计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th?p=1)  
+  英文原版：[Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo). 有趣的入门课。
+
+### 1.3. Python
 
 **基础：**
 
@@ -56,14 +62,14 @@
 - [流畅的 Python（中文版）](http://libgen.li/item/index.php?md5=A5DA1D0215997469860AEB16A4A4B146)  
   高屋建瓴，妙不可言。
 - [Composing Python](https://composingprograms.com/)  
-  新版[伯克利CS61a](https://cs61a.org/)（课件比较精炼，建议先刷），主要内容：
+  新版[伯克利CS61a](https://cs61a.org/)，主要内容：
   - methods for abstraction
   - programming paradigms
   - techniques for managing the complexity of large programs.
 
   是一门计算机入门的专业课程。[旧版的CS61a](https://www.bilibili.com/video/av40460492/)使用Scheme语言，教材为[《计算机程序的构造和解释》](https://book.douban.com/subject/1148282/)(Structure and Interpretation of Computer Programs, SICP)。该课程和教材都是经典中的经典。当然对于学习Python的同学来说，新版更容易上手。
 
-### 1.3. R
+### 1.4. R
 
 基础：
 
@@ -73,7 +79,7 @@
 - The Art of R Programming  
   很流畅，推荐一读。
 
-### 1.4. 算法
+### 1.5. 算法
 
 目前正在看算法，~~因为脑子转的慢，看的非常慢~~。
 
@@ -86,7 +92,7 @@
 - [斯坦福 CS161](https://web.stanford.edu/class/cs161/lectures.html)  
   刚刚找到的，还没看。
 
-### 1.5. 杂七杂八
+### 1.6. 杂七杂八
 
 - 我写的一个[小抄集合](https://github.com/dull-bird/awesome-cheat-sheets)。
 - [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)  
