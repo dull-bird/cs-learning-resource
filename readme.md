@@ -66,7 +66,7 @@
 - [Pro Python 3](https://www.amazon.com/Pro-Python-Features-Professional-Development/dp/1484243846)  
   推荐自《Python进阶》，还没来得及看。
 - [Intermediate Python](https://leanpub.com/intermediatepython)  
-  推荐自《Python进阶》，还没来得及看。
+  推荐自《Python进阶》的同名书籍，同样还没来得及看。
 - [Composing Python](https://composingprograms.com/)  
   新版[伯克利CS61a](https://cs61a.org/)，主要内容：
   - methods for abstraction
