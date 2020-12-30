@@ -27,7 +27,7 @@
 ### 1.2. 计算机科学基础
 
 - [计算机科学速成课](https://www.bilibili.com/video/BV1EW411u7th?p=1)  
-  英文原版：[Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo). 有趣的入门课。
+  英文原版：[Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo). 有趣的入门课，制作非常用心，自底向上，并且结合历史介绍了整个计算机科学的大部分内容。假如早一点看到该多好！
 
 ### 1.3. Python
 
@@ -37,6 +37,8 @@
   讲解比较生动，非常适合入门，但相比于课程和书籍可能稍欠严谨。
 - [免费的编程中文书籍索引：Python 部分](https://github.com/justjavac/free-programming-books-zh_CN#python)  
   资料挺多的，当年我是看着~~Python 之父~~廖雪峰的课入~~坑~~门的。
+- [PythonShare](https://github.com/Yixiaohan/codeparkshare)
+  面向零基础Python学习者的资料和学习指导。
 - [Coursera 上的 Python 课程](https://www.coursera.org/search?query=python&)  
   这种课程就像本科的专业课（当然比起真实课程要简单一些），一般来说课程难度不高 (beginer)，如果加上了“数据分析”那就成了 (intermediate)🤣.
 - [MIT Python 课程](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)  
@@ -61,6 +63,10 @@
   英文版叫[_Intermediate Python_](https://book.pythontips.com/en/latest/index.html)，作者也称之为*Python Tips*。简洁明了，同时涉及到一些更高级的特性，比如装饰器。
 - [流畅的 Python（中文版）](http://libgen.li/item/index.php?md5=A5DA1D0215997469860AEB16A4A4B146)  
   高屋建瓴，妙不可言。
+- [Pro Python 3](https://www.amazon.com/Pro-Python-Features-Professional-Development/dp/1484243846)  
+  推荐自《Python进阶》，还没来得及看。
+- [Intermediate Python](https://leanpub.com/intermediatepython)  
+  推荐自《Python进阶》，还没来得及看。
 - [Composing Python](https://composingprograms.com/)  
   新版[伯克利CS61a](https://cs61a.org/)，主要内容：
   - methods for abstraction
